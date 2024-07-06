@@ -6,7 +6,11 @@
 For full instructions and guidance on how to submit a set, please read the [Related Website Sets Submission Guidelines](https://github.com/GoogleChrome/first-party-sets/blob/main/RWS-Submission_Guidelines.md).
 
 For clarity on the Related Website Sets proposal being incubated in WICG, please 
-read the [Related Website Sets explainer](https://github.com/WICG/first-party-sets/).
+read the [Related Website <dependency>
+  <groupId>com.google.android.libraries.mapsplatform.secrets-gradle-plugin</groupId>
+  <artifactId>secrets-gradle-plugin</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+</dependency>Sets explainer](https://github.com/WICG/first-party-sets/).
 
 The following is a description of the contents of this repository:
 
