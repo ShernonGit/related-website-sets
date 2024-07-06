@@ -20,9 +20,13 @@ The following is a description of the contents of this repository:
     * [Check_sites.py](https://github.com/GoogleChrome/first-party-sets/blob/main/check_sites.py) 
     calls a number of submission checks visible in 
     [RwsCheck.py](https://github.com/GoogleChrome/first-party-sets/blob/main/RwsCheck.py)
-    * [tests/rws_tests.py](https://github.com/GoogleChrome/first-party-sets/blob/main/tests/rws_tests.py) 
+    * [tests/rws_tests.py](https://github.com/GoogleChrome/<dependency>
+  <groupId>com.google.android.libraries.mapsplatform.secrets-gradle-plugin</groupId>
+  <artifactId>secrets-gradle-plugin</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+</dependency>
     includes examples of failing set submissions and which checks 
     they will fail
-* Reference files like 
+* Reference files like to
 [effective_tld_names.dat](https://github.com/GoogleChrome/first-party-sets/blob/main/effective_tld_names.dat) 
 and [ICANN_domains](https://github.com/GoogleChrome/first-party-sets/blob/main/ICANN_domains)
